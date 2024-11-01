@@ -1,0 +1,216 @@
+.wpv_tab {
+    margin: 0px;
+    margin-top: 15px;
+    list-style: none;
+}
+li.wpv_like {
+    background: none;
+    display: inline-block;
+    cursor: pointer;
+    font-weight: 500;
+    margin-bottom: 0;
+    margin-left: 0px;
+    margin-right: 2px;
+    background-color: #2271b1;
+    color: #fff;
+    font-size: 13px;
+    padding: 10px 20px;
+    width: 150px;
+    text-align: center;
+    border: 1px solid #2271b1;
+    transition: .3s;
+}
+.woo_pv_save_options input.button-primary {
+    padding: 5px 30px;
+    border-radius: 0px;
+}
+li.wpv_like.wpv_tab_carrent {
+    background-color: #ffffff;
+    color: #2271b1;
+}
+.wpv_dl_data li:active {
+    border: 2px dotted #2271b1;
+}
+.wpv_tab_content {
+    padding: 10px;
+    background-color: white;
+    margin-top: 15px;
+    border: 1px solid #2271b1;
+    margin-bottom: 15px;
+    display: none;
+}
+.wpv_tab_content_carrent{
+	display: block;
+}
+span.wpv_note {
+    font-size: 16px;
+    font-style: italic;
+    letter-spacing: 1.2px;
+    font-weight: 500;
+}
+.wpv_gst_data {
+    display: inline-block;
+    width: 100%;
+    padding: 20px;
+}
+.wpv_table_coovver_div h2{
+    text-align: left;
+    background: #2271b1;
+    padding: 10px;
+    color: #fff;
+    margin: 0;
+}
+.wpv_gst_data tbody {
+    display: inline-block;
+    width: 100%;
+}
+.wpv_gst_data tbody tr {
+    display: inline-block;
+    width: 100%;
+    margin: 20px 0px;
+}
+ul.wpv_dl_data {
+    margin: 20px 0px;
+}
+.wpv_gst_data tr th {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    padding: 0px;
+    width: 25%;
+    font-weight: 600;
+}
+.wpv_gst_data tr td {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    padding: 0px;
+    width: 70%;
+}
+
+.wpv_gst_data tr th label{
+	font-size: 16px;
+	font-weight: 500;
+}
+
+.wpv_gst_filed_checkboox{
+	width: 20px !important;
+}
+
+.wpv_fd{
+	margin: 10px;
+    padding: 2px;
+}
+
+.wpv_dl_data li{
+	margin-bottom: 6px;
+    border: 2px dotted #bdbdbd;
+    padding: 7px;
+    background: #efefef;
+    cursor: all-scroll;
+}
+img.woo_pv_rating_div {
+    width: 100px;
+    vertical-align: middle;
+}
+
+
+/*CSS for support rating donation multistep start*/
+.woopv_rating_div {
+    width: 100px;
+    vertical-align: middle;
+}
+.woopv_ratesup_notice_main {
+    display: inline-block;
+    width: 100%;
+}
+.woopv_rateus_notice, .woopv_support_notice {
+    display: inline-block;
+    width: 45%;
+    float: left;
+    color: #fff;
+    background-color: #fb5f51;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 15px;
+    height: 70px;
+    margin-bottom: 12px;
+}
+.woopv_rateus_notice h3, .woopv_support_notice h3 {
+    color: #fff;
+    margin: 0;
+    margin-bottom: 12px;
+    font-size: 20px;
+}
+.woopv_rateus_notice label, .woopv_support_notice label {
+    font-size: 16px;
+}
+.woopv_support_notice {
+    background-color: #2f3337;
+    margin-left: 2%;
+}
+.woopv_rateus_notice a, .woopv_support_notice a {
+    color: #fff;
+}
+.woopv_rtusnoti_left {
+    display: inline-block;
+    float: left;
+    width: 70%;
+}
+.woopv_rtusnoti_right {
+    display: inline-block;
+    float: right;
+    text-align: right;
+}
+.woopv_rtusnoti_right img {
+    width: 50px;
+    height: auto;
+}
+.woopv_donate_main {
+    background: #fff;
+    padding: 15px;
+    display: flex;
+    width: 94.6%;
+    border: 1px solid #e3bbac;
+    align-items: center;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    margin-top: 15px;
+}
+.woopv_donate_main img {
+    height: 32px;
+}
+.woopv_donate_main > * {
+    margin: 0 15px 0 0;
+    vertical-align: middle;
+}
+.woopv_onate_main h3 {
+    font-size: 15px;
+}
+.woopv_donate_form {
+    display: flex;
+}
+.woopv_donate_main .button {
+    text-align: center;
+}
+img.woopv_rating_div {
+    width: 100px;
+    width: 105px;
+    vertical-align: middle;
+}
+span.woopv_combine_notice {
+    font-size: 13px;
+    font-style: italic;
+    font-weight: 500;
+}
+/*CSS for support rating donation multistep end*/
+
+td.wpv_loader_image img {
+    width: 40px;
+}
+td.wpv_loader_image label, td.wpv_cart_icon label {
+    margin-right: 30px;
+}
+td.wpv_cart_icon label svg {
+    width: 40px;
+    height: auto;
+}

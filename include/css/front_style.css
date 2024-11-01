@@ -1,0 +1,124 @@
+.oc_filter {
+    width: 50%!important;
+    float: left;
+    display: inline-block;
+    margin-top: 16px;
+    z-index: 1111;
+    margin-bottom: 3px;
+}
+.wppvv_datatable_main {
+    width: 100%;
+    display: inline-block;
+    float: left;
+    margin-bottom: 10px;
+}
+input#wpv_add_to_cart {
+    width: 100%;
+    cursor: pointer;
+    padding: 10px 0;
+    margin: 0px;
+}
+.wppvv_datatable_main table thead tr th {
+    color: #fff;
+}
+div#wpv_table_data_filter {
+    margin-bottom: 19px;
+}
+#wpv_table_data_wrapper span.view_cart {
+    display: none;
+}
+.view_cart a.view_cart_inner img {
+    width: 20px !important;
+    height: 20px !important;
+    padding-left: 5px;
+}
+.view_cart a.view_cart_inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none !important;
+    color: #000000 !important;
+    font-size: 13px;
+    margin-top: 5px;
+}
+select.wpv_qon {
+    width: 80%;
+    padding: 5px 10px;
+    border: 1px solid;
+}
+.wpv_act_form td {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.wpv_act_form input.input-text.qty.text {
+    width: 70%;
+}
+.dataTables_wrapper .dataTables_filter{
+	text-align:left!important;
+}
+.oc_filter select {
+    display: inline-block;
+    border: 1px solid #aaa;
+    margin-right: 4px;
+    width: 23%;
+    border-radius: 3px;
+    padding: 5px;
+    color: #979797;
+}
+#wpv_add_to_cart.wczpc_loader:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.3);
+    opacity: 1;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    
+}
+.wczpc_spinner {
+    position: absolute;
+    top: 32%;
+    left: 0;
+    display: flex;
+    align-content: center;
+    height: auto;
+    width: 100%;
+    text-align: center;
+}
+.wczpc_spinner img {
+    height: 50px;
+    margin: 0 auto;
+    align-items: center;
+    display: flex;
+    align-content: center;
+}
+
+img.loader_add_to_cart {
+    width: 30px;
+}
+span.loader_main {
+    display: none;
+    justify-content: center;
+    margin-top: 5px;
+}
+/*span.loader_main {
+    display: none; 
+    position: absolute;
+    box-sizing: border-box;
+    top: 50%;
+    left: 0;
+    transform: translate(0%, -50%);
+    width: 100%;
+}*/
+.view_cart a.view_cart_inner svg {
+    width: 15px;
+    height: auto;
+    margin-left: 5px;
+}
+button.oc_available_variation {
+    margin: 15px 0px;
+}

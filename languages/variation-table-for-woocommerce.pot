@@ -1,0 +1,165 @@
+# Copyright (C) 2021 
+# This file is distributed under the same license as the Variation Table For Woocommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Variation Table For Woocommerce 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/variation-table-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-09-24T11:34:29+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: variation-table-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "Variation Table For Woocommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin allows create Variation Table plugin."
+msgstr ""
+
+#: admin/woo-pv-admin.php:22
+msgid "Woocommerce Variations Table"
+msgstr ""
+
+#: admin/woo-pv-admin.php:25
+msgid "General Settings"
+msgstr ""
+
+#: admin/woo-pv-admin.php:26
+#: admin/woo-pv-admin.php:185
+msgid "Translations"
+msgstr ""
+
+#: admin/woo-pv-admin.php:32
+msgid "General"
+msgstr ""
+
+#: admin/woo-pv-admin.php:35
+msgid "Variations"
+msgstr ""
+
+#: admin/woo-pv-admin.php:41
+msgid "layout"
+msgstr ""
+
+#: admin/woo-pv-admin.php:48
+msgid "Quantity option layout"
+msgstr ""
+
+#: admin/woo-pv-admin.php:55
+msgid "Variations Colums"
+msgstr ""
+
+#: admin/woo-pv-admin.php:62
+msgid "Data Table Search"
+msgstr ""
+
+#: admin/woo-pv-admin.php:68
+msgid "Table Search"
+msgstr ""
+
+#: admin/woo-pv-admin.php:72
+msgid "Table Ordering"
+msgstr ""
+
+#: admin/woo-pv-admin.php:77
+msgid "Table Herder Background Color"
+msgstr ""
+
+#: admin/woo-pv-admin.php:81
+msgid "Table Herder Text Color"
+msgstr ""
+
+#: admin/woo-pv-admin.php:90
+msgid "Select Columns To Display Products"
+msgstr ""
+
+#: admin/woo-pv-admin.php:93
+msgid "Images"
+msgstr ""
+
+#: admin/woo-pv-admin.php:99
+#: admin/woo-pv-admin.php:149
+#: admin/woo-pv-admin.php:171
+#: admin/woo-pv-admin.php:192
+msgid "Variations Name"
+msgstr ""
+
+#: admin/woo-pv-admin.php:105
+#: admin/woo-pv-admin.php:154
+#: admin/woo-pv-admin.php:172
+#: admin/woo-pv-admin.php:196
+msgid "Price"
+msgstr ""
+
+#: admin/woo-pv-admin.php:111
+#: admin/woo-pv-admin.php:162
+#: admin/woo-pv-admin.php:174
+#: admin/woo-pv-admin.php:204
+msgid "Quantity"
+msgstr ""
+
+#: admin/woo-pv-admin.php:117
+#: admin/woo-pv-admin.php:166
+#: admin/woo-pv-admin.php:175
+#: admin/woo-pv-admin.php:208
+msgid "Add To Cart"
+msgstr ""
+
+#: admin/woo-pv-admin.php:123
+#: admin/woo-pv-admin.php:158
+#: admin/woo-pv-admin.php:173
+#: admin/woo-pv-admin.php:200
+msgid "Inventory"
+msgstr ""
+
+#: admin/woo-pv-admin.php:144
+#: admin/woo-pv-admin.php:170
+#: admin/woo-pv-admin.php:188
+msgid "Image"
+msgstr ""
+
+#: admin/woo-pv-kit.php:71
+msgid "Essential Kit"
+msgstr ""
+
+#: admin/woo-pv-kit.php:165
+msgid "Deactivate"
+msgstr ""
+
+#: admin/woo-pv-kit.php:172
+msgid "Activate"
+msgstr ""
+
+#: admin/woo-pv-kit.php:179
+msgid "Install Now"
+msgstr ""
+
+#: admin/woo-pv-kit.php:186
+msgid "More information about %s"
+msgstr ""
+
+#: admin/woo-pv-kit.php:188
+msgid "More Details"
+msgstr ""
+
+#: admin/woo-pv-kit.php:217
+msgid "Version"
+msgstr ""
+
+#: admin/woo-pv-kit.php:223
+msgid "+ Active Installations"
+msgstr ""
+
+#: admin/woo-pv-kit.php:229
+msgid "Last Updated:"
+msgstr ""
+
+#: admin/woo-pv-kit.php:230
+msgid "%s ago"
+msgstr ""
